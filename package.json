@@ -1,0 +1,29 @@
+{
+  "name": "leafing-button",
+  "version": "1.0.1",
+  "description": "A button for Native, Desktop and Web apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
+    "flow": "flow; test $? -eq 0 -o $? -eq 2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parrunset/leafing-button.git"
+  },
+  "keywords": [
+    "button",
+    "component",
+    "react",
+    "react-native",
+    "web",
+    "desktop",
+    "javascript"
+  ],
+  "author": "Albert Parron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parrunset/leafing-button/issues"
+  },
+  "homepage": "https://github.com/parrunset/leafing-button#readme"
+}
