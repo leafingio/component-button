@@ -1,5 +1,5 @@
 {
-  "name": "component-button",
+  "name": "leafingio-component-button",
   "version": "1.0.1",
   "description": "A button for Native, Desktop and Web apps",
   "main": "index.js",
