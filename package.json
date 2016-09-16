@@ -1,7 +1,7 @@
 {
   "name": "leafingio-component-button",
   "version": "1.0.1",
-  "description": "A button for Native, Desktop and Web apps",
+  "description": "A button component for Native, Desktop and Web apps",
   "main": "index.js",
   "scripts": {
     "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
