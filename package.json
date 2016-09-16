@@ -1,5 +1,5 @@
 {
-  "name": "leafing-button",
+  "name": "component-button",
   "version": "1.0.1",
   "description": "A button for Native, Desktop and Web apps",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/parrunset/leafing-button.git"
+    "url": "git+https://github.com/leafingio/component-button.git"
   },
   "keywords": [
     "button",
@@ -23,7 +23,7 @@
   "author": "Albert Parron",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/parrunset/leafing-button/issues"
+    "url": "https://github.com/leafingio/component-button/issues"
   },
-  "homepage": "https://github.com/parrunset/leafing-button#readme"
+  "homepage": "https://github.com/leafingio/component-button#readme"
 }
