@@ -24,7 +24,7 @@ export default
 class extends Component {
   constructor(){ super(props) }
   render(){
-    this.props.onPress
+    return this.props.onPress
       ? <TouchableOpacity>{this.props.children}</TouchableOpacity>
       : <View>{this.props.children}</View>
   }
